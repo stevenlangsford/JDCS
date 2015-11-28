@@ -1,0 +1,43 @@
+body{
+    background-color:black;
+    color:white;
+    font-size:130%;
+}
+button{
+    font-size:2.1em;
+    width:45px;
+    padding:0px;
+}
+
+#uberdiv{
+    /*border:2px solid white;/**/
+    overflow:hidden;
+}
+#nbackcanvas{
+    margin:auto;
+    border:5px solid black;
+}
+.center,.triadtable{
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+
+.footer{
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    color:white
+    border:1px solid yellow
+    width:100%;
+    height:100px;
+    /* position:absolute; */
+    bottom:0;
+    left:0;
+    text-align:center;
+    font-size:1.1em;
+}
+
+table{
+    border:1xp solid white
+}
