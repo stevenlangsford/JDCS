@@ -1,0 +1,2 @@
+Numbers under the lineup photos rather than arrows.
+Bastard rows really don't work on different screen sizes, need to enforce row break somehow.

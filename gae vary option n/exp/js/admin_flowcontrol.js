@@ -410,8 +410,12 @@ function saveData(data) {
 
 
 
-//instructions(); //actual start point.
+instructions(); //actual start point.
+
+document.getElementById("footerdiv").innerHTML="Jump to:"+
+"<button onclick='vidone()'>First video</button><button onclick='vidtwo()'>Second video</button><button onclick='showLineup()'>Questions</button>";
+
 //vidone();
 //vidtwo();
 //nextquiz();
-showLineup();
+//showLineup();
